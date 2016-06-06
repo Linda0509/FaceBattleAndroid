@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:background="@color/yellow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center|top"
+            android:background="@drawable/logo"
+            android:layout_width="150dp"
+            android:layout_height="150dp" />
+
+        <com.linda.facebattle.Util.MyTextView
+            android:layout_gravity="center|top"
+            android:layout_marginTop="200dp"
+            android:text="FaceBattle"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.linda.facebattle.Util.MyTextView
+            android:layout_gravity="center|top"
+            android:layout_marginTop="250dp"
+            android:text="DONT SAY ANYTHING\nFIGHT WITH YOUR FACE."
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.linda.facebattle.Util.MyEditText
+            android:textSize="15sp"
+            android:id="@+id/signup_name"
+            android:textColorHint="@color/black"
+            android:singleLine="true"
+            android:textCursorDrawable="@color/black"
+            android:paddingLeft="20dp"
+            android:hint="USER NAME"
+            android:background="@drawable/login_shape"
+            android:layout_marginRight="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginTop="310dp"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp" />
+
+        <com.linda.facebattle.Util.MyEditText
+            android:textSize="15sp"
+            android:inputType="textPassword"
+            android:id="@+id/signup_pw"
+            android:textColorHint="@color/black"
+            android:singleLine="true"
+            android:textCursorDrawable="@color/black"
+            android:paddingLeft="20dp"
+            android:hint="PASSWORD"
+            android:background="@drawable/login_shape"
+            android:layout_marginRight="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginTop="360dp"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp" />
+
+        <com.linda.facebattle.Util.MyEditText
+            android:textSize="15sp"
+            android:inputType="textPassword"
+            android:id="@+id/signup_pw2"
+            android:textColorHint="@color/black"
+            android:singleLine="true"
+            android:textCursorDrawable="@color/black"
+            android:paddingLeft="20dp"
+            android:hint="CONFIRM YOUR PASSWORD"
+            android:background="@drawable/login_shape"
+            android:layout_marginRight="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginTop="410dp"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp" />
+
+        <com.linda.facebattle.Util.MyButton
+            android:id="@+id/signup"
+            android:text="REGISTER"
+            android:textColor="@color/white"
+            android:background="@drawable/login_shape_black"
+            android:layout_marginRight="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginTop="460dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <com.linda.facebattle.Util.MyTextView
+            android:id="@+id/gotoLogin"
+            android:textColor="@color/black"
+            android:layout_marginTop="510dp"
+            android:layout_gravity="center|top"
+            android:text="@string/login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+
+</LinearLayout>

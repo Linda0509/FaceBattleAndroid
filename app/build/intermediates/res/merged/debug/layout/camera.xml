@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <SurfaceView
+        android:layout_marginBottom="200dp"
+        android:id="@+id/id_area_sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <FrameLayout
+        android:background="@color/black"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        >
+
+
+        <Button
+            android:background="@drawable/circle_small"
+            android:layout_marginLeft="16dp"
+            android:layout_gravity="start|center"
+            android:id="@+id/id_switch_camera_btn"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:translationZ="20dp"
+            android:background="@drawable/reverse"
+            android:layout_marginLeft="31dp"
+            android:layout_gravity="center|start"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+
+
+        <Button
+        android:background="@drawable/circle_large"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+        <Button
+            android:id="@+id/id_capture_btn"
+            android:background="@drawable/circle_large2"
+            android:layout_gravity="center"
+            android:layout_width="70dp"
+            android:layout_height="70dp" />
+
+        <Button
+            android:background="@drawable/circle_small"
+            android:layout_marginRight="16dp"
+            android:layout_gravity="end|center"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:translationZ="20dp"
+            android:background="@drawable/photo"
+            android:layout_marginRight="31dp"
+            android:layout_gravity="center|end"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+
+
+    </FrameLayout>
+
+
+
+</FrameLayout>

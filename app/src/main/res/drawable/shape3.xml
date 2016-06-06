@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- shape如果不声明形状则默认为正方形 -->
+
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape >
+
+            <corners android:radius="10.0dp" />
+            <!-- 圆角，你也可以对不同的角设置不同的数值 -->
+
+            <solid android:color="@color/black" />
+            <!-- 形状的填充色 -->
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/black" />
+            <!-- 边框宽度和颜色 -->
+
+        </shape>
+    </item>
+    <item android:state_pressed="false">
+        <shape >
+
+            <corners android:radius="10.0dp" />
+            <!-- 圆角，你也可以对不同的角设置不同的数值 -->
+
+            <solid android:color="@color/press_black" />
+            <!-- 形状的填充色 -->
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/press_black" />
+            <!-- 边框宽度和颜色 -->
+
+        </shape>
+    </item>
+
+
+</selector>

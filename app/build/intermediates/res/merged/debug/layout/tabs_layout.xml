@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:id="@+id/tbv_bottom"
+    android:background="@color/black">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/tab1">
+        <com.linda.facebattle.Util.MyTextView
+            android:gravity="center"
+            android:background="@color/yellow"
+            android:textColor="@color/black"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:text="PUBLIC" />
+        <ImageView
+            android:src="@drawable/pager_pos_hint"
+            android:id="@+id/tab_img1"
+            android:layout_width="30dp"
+            android:layout_height="10dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/tab2"
+        android:orientation="vertical"
+        android:gravity="center">
+        <com.linda.facebattle.Util.MyTextView
+            android:gravity="center"
+            android:background="@color/yellow"
+            android:textColor="@color/black"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:text="HISTORY" />
+        <ImageView
+            android:id="@+id/tab_img2"
+            android:layout_width="30dp"
+            android:layout_height="10dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/tab3"
+        android:orientation="vertical"
+        android:gravity="center">
+        <com.linda.facebattle.Util.MyTextView
+            android:gravity="center"
+            android:background="@color/yellow"
+            android:textColor="@color/black"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:text="ME" />
+        <ImageView
+            android:id="@+id/tab_img3"
+            android:layout_width="30dp"
+            android:layout_height="10dp" />
+    </LinearLayout>
+</LinearLayout>

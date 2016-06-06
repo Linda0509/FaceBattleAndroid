@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <FrameLayout
+        android:background="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <ImageView
+            android:id="@+id/battle_ava"
+            android:src="@drawable/a1"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="16dp"
+            android:layout_width="60dp"
+            android:layout_height="60dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginLeft="85dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <com.linda.facebattle.Util.MyTextView
+                android:id="@+id/battle_username"
+                android:textColor="@color/white"
+                android:gravity="bottom"
+                android:textSize="25sp"
+                android:text="JuniperPhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <com.linda.facebattle.Util.MyTextView
+                    android:id="@+id/battle_time"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="16sp"
+                    android:text="06/07 12:22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <com.linda.facebattle.Util.MyTextView
+                    android:id="@+id/battle_mode"
+                    android:paddingRight="8dp"
+                    android:paddingLeft="8dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/shape_yellow"
+                    android:textColor="@color/black"
+                    android:gravity="center"
+                    android:text="CLASSIC MODE"
+                    android:layout_marginLeft="16dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

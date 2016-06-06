@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="fill_parent" android:layout_width="fill_parent">
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/your_photo"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <com.linda.facebattle.Util.MyTextView
+                android:id="@+id/your_msg"
+                android:paddingLeft="20dp"
+                android:gravity="center|start"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:text="He is handsome"
+                android:layout_margin="16dp"
+                android:background="@color/red"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp" />
+        </FrameLayout>
+        <FrameLayout
+            android:layout_weight="1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <com.facebook.drawee.view.SimpleDraweeView
+                android:id="@+id/my_photo"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <com.linda.facebattle.Util.MyTextView
+                android:id="@+id/my_msg"
+                android:layout_gravity="bottom"
+                android:paddingLeft="20dp"
+                android:gravity="center|start"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:text="He is handsome"
+                android:layout_margin="16dp"
+                android:background="@color/blue"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_margin="16dp"
+        android:src="@drawable/win_text"
+        android:id="@+id/lose_or_win"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+</FrameLayout>
+
