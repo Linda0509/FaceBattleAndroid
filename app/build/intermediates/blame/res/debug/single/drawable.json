@@ -1,254 +1,266 @@
 [
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/circle_small.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/circle_small.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a4.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a4.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a10.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a10.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a15.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a15.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a13.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a13.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a17.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a17.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/shape_yellow.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/shape_yellow.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a16.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a16.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/reload.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/reload.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/win_text.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/win_text.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a3.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a3.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a22.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a22.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a17.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a17.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/shape3.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/shape3.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a19.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a19.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a10.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a10.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a6.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a6.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a9.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a9.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a9.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a9.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a12.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a12.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/pager_pos_hint.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/pager_pos_hint.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/win_text.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/win_text.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/photo.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/photo.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/login_shape.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/login_shape.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/close.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/close.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a1.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a1.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a13.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a13.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/login_shape_black.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/login_shape_black.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a21.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a21.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/shape3.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/shape3.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a12.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a12.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/photo.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/photo.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/close.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/close.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a5.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a5.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a5.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a5.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a23.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a23.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/login_shape.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/login_shape.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a2.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a2.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/logo.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/pager_pos_hint.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/pager_pos_hint.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a11.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a11.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a21.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a21.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/login_shape_black.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/login_shape_black.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a2.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a2.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a4.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a4.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/add.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/add.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a15.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a15.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a3.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a3.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/circle_large2.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/circle_large2.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a8.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a8.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/reverse.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/reverse.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/reverse.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/reverse.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a18.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a18.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/lost_text.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/lost_text.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a24.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a24.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/circle_large.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/circle_large.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a20.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a20.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a1.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a1.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/circle_large2.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/circle_large2.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a7.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a7.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/circle_small.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/circle_small.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/lost_text.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/lost_text.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a14.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a14.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/shape_yellow.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/shape_yellow.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a6.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a6.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a11.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a11.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a14.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a14.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a23.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a23.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a18.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a18.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/circle_large.xml",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/circle_large.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a16.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a16.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/a8.png",
-        "source": "/Users/augustinus/FaceBattle/app/src/main/res/drawable/a8.png"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a19.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a19.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a20.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a20.png"
     },
     {
-        "merged": "/Users/augustinus/FaceBattle/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/augustinus/FaceBattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a22.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a22.png"
+    },
+    {
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a24.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a24.png"
+    },
+    {
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/a7.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/a7.png"
+    },
+    {
+        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/debug/drawable/add.png",
+        "source": "/Users/lindahao/Desktop/facebattle/app/src/main/res/drawable/add.png"
     }
 ]

@@ -18,6 +18,7 @@ import android.view.View;
 import android.view.ViewAnimationUtils;
 import android.widget.Button;
 import android.widget.FrameLayout;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
@@ -37,12 +38,14 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
     private PagerAdapter pagerAdapter;
     private ImageView mIgBackground[];
     private LinearLayout tabs[];
+    private ImageButton reload;
 
     public static int mode = -1;
 
     public static FrameLayout addview;
 
     public static FloatingActionButton close;
+
 
     public Button startGame1,startGame2;
 
@@ -55,6 +58,7 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
     private static final int PHOTO_REQUEST_GALLERY = 2;// 从相册中选择
 
     public boolean add_or_not = false;
+
 
 
     @Override
@@ -158,6 +162,15 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
             public void onClick(View v) {
                 mode = 1;
                 showDialog();
+            }
+        });
+
+        reload = (ImageButton) findViewById(R.id.reload);
+
+        reload.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
             }
         });
 

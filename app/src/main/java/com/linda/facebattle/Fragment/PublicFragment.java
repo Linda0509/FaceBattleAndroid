@@ -41,6 +41,7 @@ public class PublicFragment extends android.support.v4.app.Fragment {
     private ListView listView;
     private BattleAdapter adapter;
     private List<Battle> battles;
+    public boolean isFinish;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -68,13 +69,20 @@ public class PublicFragment extends android.support.v4.app.Fragment {
             }
         });
 
-        new Thread(getTime).start();
+        isFinish = true;
+
+        getData();
 
         listView = (ListView) rootView.findViewById(R.id.list1);
 
 
         return rootView;
 
+    }
+
+    public void getData(){
+        isFinish = false;
+        new Thread(getTime).start();
     }
 
     Runnable getTime = new Runnable() {
@@ -146,13 +154,14 @@ public class PublicFragment extends android.support.v4.app.Fragment {
                         Battle battle = new Battle(b.getJSONObject(i));
                         battles.add(battle);
                     }
-                    adapter = new BattleAdapter(getActivity(),battles);
+                    adapter = new BattleAdapter(getActivity(),battles,false);
                     listView.setAdapter(adapter);
                     adapter.notifyDataSetChanged();
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
             }
+            isFinish = true;
 
         }
     };

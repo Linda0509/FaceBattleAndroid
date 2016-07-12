@@ -27,6 +27,7 @@ public class BattleAdapter extends BaseAdapter {
     private List<Battle> battles;
     private LayoutInflater listContainer;           //视图容器
     private ListItemView listItemView;
+    private boolean mode;
 
     public final class ListItemView {                //自定义控件集合
         public TextView username;
@@ -35,10 +36,11 @@ public class BattleAdapter extends BaseAdapter {
         public ImageView avator;
     }
 
-    public BattleAdapter(Context context,List<Battle> battles) {
+    public BattleAdapter(Context context,List<Battle> battles,boolean a) {
         this.context = context;
         listContainer = LayoutInflater.from(context);   //创建视图容器并设置上下文
         this.battles=battles;
+        this.mode = a;
     }
 
     public BattleAdapter(Context context){
@@ -150,17 +152,21 @@ public class BattleAdapter extends BaseAdapter {
         convertView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (battles.get(position).getStater().getUid().equals((String) PropertiesUtil.loadConfig(context).get("uid"))){
-                    MyToast.toast(context,"You can not play with yourself~");
+                if (mode){
+                    Intent intent = new Intent(context,BattleActivity.class);
+                    intent.putExtra("bid",battles.get(position).getBid());
+                    context.startActivity(intent);
+                }else {
+                    if (battles.get(position).getStater().getUid().equals((String) PropertiesUtil.loadConfig(context).get("uid"))){
+                        MyToast.toast(context,"You can not play with yourself~");
 
-            }else{
-                    MainActivity.bid = battles.get(position).getBid();
-                    MainActivity.mode = Integer.valueOf(battles.get(position).getType());
-                    ((MainActivity)context).showDialog2();
-//                    Intent intent = new Intent(context,BattleActivity.class);
-//                    intent.putExtra("bid",battles.get(position).getBid());
-//                    context.startActivity(intent);
+                    }else{
+                        MainActivity.bid = battles.get(position).getBid();
+                        MainActivity.mode = Integer.valueOf(battles.get(position).getType());
+                        ((MainActivity)context).showDialog2();
+                    }
                 }
+
         }
         });
         return convertView;

@@ -127,8 +127,16 @@ public class BattleActivity extends Activity {
                     Uri uri2 = Uri.parse(NetUtil.address+"photos/"+singleBattle.getParticipator().getPid());
                     image2.setImageURI(uri2);
 
-                    text1.setText(singleBattle.getParticipator().getMsg());
-                    text2.setText(singleBattle.getStater().getMsg());
+                    text1.setText(singleBattle.getStater().getMsg());
+                    text2.setText(singleBattle.getParticipator().getMsg());
+
+                    Properties prop = PropertiesUtil.loadConfig(getApplicationContext());
+                    if (singleBattle.finalEnding((String) prop.get("uid"))){
+                        lose_win.setImageResource(R.drawable.win_text);
+                    }else {
+                        lose_win.setImageResource(R.drawable.lost_text);
+                    }
+
 
 
                 } catch (JSONException e) {
@@ -139,19 +147,6 @@ public class BattleActivity extends Activity {
         }
     };
 
-    Runnable getPhoto1 = new Runnable() {
-        @Override
-        public void run() {
-
-        }
-    };
-
-    Runnable getPhoto2 = new Runnable() {
-        @Override
-        public void run() {
-
-        }
-    };
 
 
 }

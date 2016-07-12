@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activity.MainActivity"
+    android:background="@color/black">
+
+    <include layout="@layout/tabs_layout"
+        android:layout_marginTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/tabs"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:scrollbars="none"
+        android:layout_marginTop="130dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+
+   <LinearLayout
+       android:background="@color/yellow"
+       android:layout_width="fill_parent"
+       android:layout_height="70dp">
+       <com.linda.facebattle.Util.MyTextView
+           android:textColor="@color/black"
+           android:layout_marginLeft="16dp"
+           android:textSize="27sp"
+           android:layout_gravity="bottom|start"
+           android:text="FaceBattle"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+
+
+   </LinearLayout>
+
+    <FrameLayout
+        android:clickable="true"
+        android:id="@+id/view"
+        android:visibility="invisible"
+        android:background="@color/yellow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.linda.facebattle.Util.MyTextView
+            android:layout_marginTop="150dp"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:text="CHOOSE A MODE"
+            android:layout_gravity="center|top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+        <com.linda.facebattle.Util.MyButton
+            android:id="@+id/startgame1"
+            android:background="@drawable/login_shape_black"
+            android:textColor="@color/yellow"
+            android:text="Classic mode"
+            android:layout_marginRight="32dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="230dp"
+            android:layout_gravity="center|top"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <com.linda.facebattle.Util.MyTextView
+            android:textSize="14sp"
+            android:gravity="center"
+            android:layout_marginTop="290dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:text="Happiness beats anger,anger beats sadness,sadness beats happiness."
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.linda.facebattle.Util.MyButton
+            android:id="@+id/startgame2"
+            android:background="@drawable/login_shape"
+            android:textColor="@color/black"
+            android:text="Hulk mode"
+            android:layout_marginRight="32dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="380dp"
+            android:layout_gravity="center|top"
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <com.linda.facebattle.Util.MyTextView
+            android:textSize="14sp"
+            android:gravity="center"
+            android:layout_marginTop="440dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:text="Be the angriest and win the game."
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="8dp"
+            android:src="@drawable/close"
+            fab:fab_colorNormal="@color/yellow"
+            fab:fab_colorPressed="@color/press_yellow"
+            fab:fab_colorRipple="@color/ripper_yellow"/>
+
+    </FrameLayout>
+
+
+</FrameLayout>

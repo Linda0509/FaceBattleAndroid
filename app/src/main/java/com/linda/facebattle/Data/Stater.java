@@ -27,8 +27,22 @@ public class Stater {
         time = a.getString("time");
         username = a.getString("username");
         if(a.toString().contains("score")){
-            if (a.getJSONObject("score")!=null){
-                score = a.getJSONObject("score");
+
+            if (a.get("score").toString().equals("null")){
+                score = new JSONObject("{\n" +
+                        "                \"anger\":0.000000001,\n" +
+                        "                \"contempt\":0.000000001,\n" +
+                        "                \"disgust\":0.000000001,\n" +
+                        "                \"fear\":0.000000001,\n" +
+                        "                \"happiness\":0.000000001,\n" +
+                        "                \"neutral\":0.000000001,\n" +
+                        "                \"sadness\":0.000000001,\n" +
+                        "                \"surprise\":0.000000001\n" +
+                        "            }");
+            }else{
+                if (a.getJSONObject("score")!=null){
+                    score = a.getJSONObject("score");
+                }
             }
         }
 

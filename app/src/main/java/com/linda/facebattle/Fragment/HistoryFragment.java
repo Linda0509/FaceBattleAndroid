@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewAnimationUtils;
@@ -132,7 +133,7 @@ public class HistoryFragment extends Fragment {
             Bundle data = msg.getData();
             String result = data.getString("result");
             assert result != null;
-            System.out.println(result);
+            Log.i("msg",result);
             if (result.contains("error")){
                 MyToast.toast(getActivity(),"network error");
             }else {
@@ -140,10 +141,15 @@ public class HistoryFragment extends Fragment {
                     JSONObject a = new JSONObject(result);
                     JSONArray b = a.getJSONArray("data");
                     for (int i=0;i<b.length();i++){
-                        Battle battle = new Battle(b.getJSONObject(i));
-                        battles.add(battle);
+                        if (b.get(i).toString().equals("false")){
+
+                        }else {
+                            Battle battle = new Battle(b.getJSONObject(i));
+                            battles.add(battle);
+                        }
+
                     }
-                    adapter = new BattleAdapter(getActivity(),battles);
+                    adapter = new BattleAdapter(getActivity(),battles,true);
                     listView.setAdapter(adapter);
                     adapter.notifyDataSetChanged();
                 } catch (JSONException e) {
