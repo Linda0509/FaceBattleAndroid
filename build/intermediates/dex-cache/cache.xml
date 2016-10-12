@@ -1,2 +1,437 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_f45935323cc8b117b319ce77ee9d1f83804d611e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_05d88ca380a54aac9ea17d590939ee438304ecc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_05d88ca380a54aac9ea17d590939ee438304ecc0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f45935323cc8b117b319ce77ee9d1f83804d611e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.github.clans-fab-1.6.4_6004df7cc6615104da9b6cbf5001e41daa9eebbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.0_6f0f4d581d2ac2987d4aa3bfb5d2b1625a4c5511.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_699038c5d498fbabac2ee4a2729a32054c185d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a2655097fbcb8ab7923b9a7c4245341e9570c407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_8c3fdc3e24fd6d603d7371468f98955519d9098d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_6f0f4d581d2ac2987d4aa3bfb5d2b1625a4c5511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_57d4ec101b49bf2b7e1091eb287ae03e7596db58/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.0_8c3fdc3e24fd6d603d7371468f98955519d9098d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/library-2.4.0_699038c5d498fbabac2ee4a2729a32054c185d3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_33c5a7097178d5629ad0deca6a0809c6f9c3f55f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_34892b5c00af15b5464ea2b907b55e8b64a6e539/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_a2655097fbcb8ab7923b9a7c4245341e9570c407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.0_57d4ec101b49bf2b7e1091eb287ae03e7596db58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_38563429e08046729426d0e9e44c3edda580db79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.0_33c5a7097178d5629ad0deca6a0809c6f9c3f55f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-0.12.0_7a3458610cc36388a075617002128dbddf84ecd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.12.0_b801456548c8eb2ddd35192c073344356b795ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_66d097354d40cf396722cf02cf210df698a8cf9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.12.0_7a3458610cc36388a075617002128dbddf84ecd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.0_66d097354d40cf396722cf02cf210df698a8cf9c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_778215d32bfbfe7bc81eacbdb6fb071a025ab21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-0.12.0_a1326e3cb1ab096708517e19acc7ee02b588929f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_778215d32bfbfe7bc81eacbdb6fb071a025ab21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-0.12.0_767ad591f2e94373249a3d6d1911fc2a463782f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.clans-fab-1.6.4_6004df7cc6615104da9b6cbf5001e41daa9eebbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.12.0_a1326e3cb1ab096708517e19acc7ee02b588929f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47f3cbb92165cf1b702c35193163e206cd76f339">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52c293e2b5d6221cc0b2e2422067f095809aab4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.0_1333b68c9b366ce4508c90f1e3c4dc0a4583d2cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.12.0_767ad591f2e94373249a3d6d1911fc2a463782f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/support-annotations-24.2.0_3e3db7c1ae461f4e24105070d2790868f0db15bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_1333b68c9b366ce4508c90f1e3c4dc0a4583d2cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_abebb921318e8aa4f39a64884254d63d9eeaf109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e6838ff34f84c6305b0949fb7e4b41052f812d2d">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ee6746049c3f3acb02424bc8681f72ee8c4c610c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_74d6cb055c25dd1474d9f2977dcec34c3115531c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-0.12.0_b801456548c8eb2ddd35192c073344356b795ced.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_3e3db7c1ae461f4e24105070d2790868f0db15bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_38563429e08046729426d0e9e44c3edda580db79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-0.12.0_5b75f8c49aaeb55e3b350c508506db887df24f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.0_34892b5c00af15b5464ea2b907b55e8b64a6e539.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_abcfba515e50f62adaf5570e215c98ce58d275a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_74d6cb055c25dd1474d9f2977dcec34c3115531c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.0_abcfba515e50f62adaf5570e215c98ce58d275a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.0_abebb921318e8aa4f39a64884254d63d9eeaf109.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.12.0_5b75f8c49aaeb55e3b350c508506db887df24f57/classes.dex" />
+    </item>
+
+</items>

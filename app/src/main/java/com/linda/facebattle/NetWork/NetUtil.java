@@ -22,7 +22,7 @@ import java.util.UUID;
 public class NetUtil {
 
 
-    public static String address="xxxxx";
+    public static String address="http://yian.me/facebattle/";
 
 
 
@@ -149,8 +149,6 @@ public class NetUtil {
         try {
             URL url = new URL(RequestURL);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-            conn.setReadTimeout(3000);
-            conn.setConnectTimeout(5000);
             conn.setDoInput(true); // 允许输入流
             conn.setDoOutput(true); // 允许输出流
             conn.setUseCaches(false); // 不允许使用缓存

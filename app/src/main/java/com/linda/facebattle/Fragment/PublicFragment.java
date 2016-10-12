@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.annotation.Nullable;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewAnimationUtils;
@@ -42,6 +43,7 @@ public class PublicFragment extends android.support.v4.app.Fragment {
     private BattleAdapter adapter;
     private List<Battle> battles;
     public boolean isFinish;
+    private SwipeRefreshLayout swipe;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -70,14 +72,25 @@ public class PublicFragment extends android.support.v4.app.Fragment {
         });
 
         isFinish = true;
-
-        getData();
-
         listView = (ListView) rootView.findViewById(R.id.list1);
+        swipe = (SwipeRefreshLayout) rootView.findViewById(R.id.public_swipe);
 
+
+        swipe.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                getData();
+            }
+        });
 
         return rootView;
 
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        getData();
     }
 
     public void getData(){
@@ -88,7 +101,6 @@ public class PublicFragment extends android.support.v4.app.Fragment {
     Runnable getTime = new Runnable() {
         @Override
         public void run() {
-            battles = new ArrayList<>();
             Message msg = new Message();
             Bundle data = new Bundle();
             String time= NetUtil.getTime();
@@ -102,6 +114,10 @@ public class PublicFragment extends android.support.v4.app.Fragment {
         @Override
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
+            battles = new ArrayList<>();
+            adapter = new BattleAdapter(getActivity(),battles,false);
+            listView.setAdapter(adapter);
+            adapter.notifyDataSetChanged();
             Bundle data = msg.getData();
             String time = data.getString("time");
             assert time != null;
@@ -162,7 +178,7 @@ public class PublicFragment extends android.support.v4.app.Fragment {
                 }
             }
             isFinish = true;
-
+            swipe.setRefreshing(false);
         }
     };
 

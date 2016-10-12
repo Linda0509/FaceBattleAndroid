@@ -40,7 +40,7 @@ import java.util.Properties;
 /**
  * Created by augustinus on 16/6/5.
  */
-public class ShowPhotoActivity extends Activity {
+public class ShowPhotoActivity extends BaseActivity {
     private ImageView imageView;
     private Button sure , choose_another;
     private int type;

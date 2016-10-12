@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -42,6 +43,7 @@ public class HistoryFragment extends Fragment {
     private ListView listView;
     private BattleAdapter adapter;
     private List<Battle> battles;
+    private SwipeRefreshLayout swipe;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -67,18 +69,35 @@ public class HistoryFragment extends Fragment {
             }
         });
 
-        new Thread(getTime).start();
+
 
         listView = (ListView) rootView.findViewById(R.id.list2);
+        swipe = (SwipeRefreshLayout) rootView.findViewById(R.id.history_swipe);
+
+        swipe.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                getData();
+            }
+        });
 
         return rootView;
 
     }
 
+    @Override
+    public void onResume() {
+        super.onResume();
+        getData();
+    }
+
+    public void getData(){
+        new Thread(getTime).start();
+    }
+
     Runnable getTime = new Runnable() {
         @Override
         public void run() {
-            battles = new ArrayList<>();
             Message msg = new Message();
             Bundle data = new Bundle();
             String time= NetUtil.getTime();
@@ -92,6 +111,10 @@ public class HistoryFragment extends Fragment {
         @Override
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
+            battles = new ArrayList<>();
+            adapter = new BattleAdapter(getActivity(),battles,false);
+            listView.setAdapter(adapter);
+            adapter.notifyDataSetChanged();
             Bundle data = msg.getData();
             String time = data.getString("time");
             assert time != null;
@@ -156,7 +179,7 @@ public class HistoryFragment extends Fragment {
                     e.printStackTrace();
                 }
             }
-
+            swipe.setRefreshing(false);
         }
     };
 

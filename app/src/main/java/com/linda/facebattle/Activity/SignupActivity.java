@@ -26,7 +26,7 @@ import java.util.Properties;
 /**
  * Created by augustinus on 16/6/4.
  */
-public class SignupActivity extends Activity{
+public class SignupActivity extends BaseActivity{
 
     private TextView gotoLogin;
     private MyEditText name;

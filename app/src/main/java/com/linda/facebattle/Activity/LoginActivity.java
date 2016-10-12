@@ -27,7 +27,7 @@ import java.util.Properties;
 /**
  * Created by augustinus on 16/6/4.
  */
-public class LoginActivity extends Activity {
+public class LoginActivity extends BaseActivity {
 
     private MyTextView gotoRegister;
     private MyEditText name;

@@ -1,0 +1,7 @@
+#Tue Oct 11 00:59:56 CST 2016
+base.0=/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ee6746049c3f3acb02424bc8681f72ee8c4c610c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52c293e2b5d6221cc0b2e2422067f095809aab4d/classes.dex
+base.1=/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52c293e2b5d6221cc0b2e2422067f095809aab4d
+file.0=/Users/dahaolin/Desktop/facebattle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ee6746049c3f3acb02424bc8681f72ee8c4c610c/classes.dex

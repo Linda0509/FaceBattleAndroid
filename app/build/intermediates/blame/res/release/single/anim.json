@@ -1,66 +1,66 @@
 [
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_scale_up.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_scale_up.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_in_from_left.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_out_to_left.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_in_from_right.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_in.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_scale_up.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_scale_up.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_scale_down.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_scale_down.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_scale_down.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_scale_down.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_out_to_left.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_out_to_left.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_in_from_right.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_in_from_right.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_out_to_right.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_out_to_right.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_out_to_right.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/fab_slide_in_from_left.xml",
-        "source": "/Users/lindahao/Desktop/facebattle/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/res/anim/fab_slide_in_from_left.xml"
+        "merged": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/dahaolin/Desktop/facebattle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
     }
 ]

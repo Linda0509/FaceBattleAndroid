@@ -31,7 +31,7 @@ import java.util.Properties;
 /**
  * Created by augustinus on 16/6/5.
  */
-public class BattleActivity extends Activity {
+public class BattleActivity extends BaseActivity {
 
     private SimpleDraweeView image1,image2;
     private ImageView lose_win;
