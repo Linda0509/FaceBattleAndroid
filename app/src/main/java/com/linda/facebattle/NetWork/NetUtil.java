@@ -22,7 +22,7 @@ import java.util.UUID;
 public class NetUtil {
 
 
-    public static String address="http://yian.me/facebattle/";
+    public static String address="xxxx";
 
 
 
